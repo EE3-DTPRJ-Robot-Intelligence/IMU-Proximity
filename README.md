@@ -1,7 +1,7 @@
 # IMU_PROXIMITY
 Arduino sketch for IMU (MPU6050) and proximity sensors (VCNL4010)
 
-## Requirements
+## Prerequisites
 ### Hardware:
 * Arduino nano
 * MPU6050 IMU Sensor(6 Dof)
