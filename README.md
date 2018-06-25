@@ -14,4 +14,4 @@ Arduino sketch for IMU (MPU6050) and proximity sensors (VCNL4010)
 ![alt-text](https://github.com/EE3-DTPRJ-Robot-Intelligence/IMU_PROXIMITY/blob/master/IMU_PROX_WIRING.jpg?raw=true)
 
 ## About
-This program runs both sensors sharing the same I2C bus. OUtput is a sting containing acceleration, gyro, proximity and temperature.
+This program runs both sensors sharing the same I2C bus. Output format is a string containing acceleration, gyro, proximity and temperature.
