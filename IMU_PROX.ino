@@ -30,7 +30,7 @@ void setup() {
   Serial.println(accelgyro.testConnection() ? "MPU6050 connection successful" : "MPU6050 connection failed");
   
   if (! vcnl.begin()){
-    Serial.println("Sensor not found :(");
+    Serial.println("Proximity sensor not found :(");
     while (1);
   }
   Serial.println("Found VCNL4010");
